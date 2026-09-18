@@ -1,0 +1,1 @@
+Place raw image files (PNG, JPG, JPEG) in this directory for processing.
