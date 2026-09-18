@@ -1,1 +1,1 @@
-Place raw image files (PNG, JPG, JPEG) in this directory for processing.
+Place trained weights, cascade classifiers, or model files in this directory.
